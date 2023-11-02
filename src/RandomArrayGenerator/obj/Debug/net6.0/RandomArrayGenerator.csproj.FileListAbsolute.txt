@@ -1,0 +1,15 @@
+D:\freelance\pandell2\Random-Number-Generator\Random Number Generator\RandomArrayGenerator\bin\Debug\net6.0\RandomArrayGenerator.exe
+D:\freelance\pandell2\Random-Number-Generator\Random Number Generator\RandomArrayGenerator\bin\Debug\net6.0\RandomArrayGenerator.deps.json
+D:\freelance\pandell2\Random-Number-Generator\Random Number Generator\RandomArrayGenerator\bin\Debug\net6.0\RandomArrayGenerator.runtimeconfig.json
+D:\freelance\pandell2\Random-Number-Generator\Random Number Generator\RandomArrayGenerator\bin\Debug\net6.0\RandomArrayGenerator.dll
+D:\freelance\pandell2\Random-Number-Generator\Random Number Generator\RandomArrayGenerator\bin\Debug\net6.0\ref\RandomArrayGenerator.dll
+D:\freelance\pandell2\Random-Number-Generator\Random Number Generator\RandomArrayGenerator\bin\Debug\net6.0\RandomArrayGenerator.pdb
+D:\freelance\pandell2\Random-Number-Generator\Random Number Generator\RandomArrayGenerator\obj\Debug\net6.0\RandomArrayGenerator.csproj.AssemblyReference.cache
+D:\freelance\pandell2\Random-Number-Generator\Random Number Generator\RandomArrayGenerator\obj\Debug\net6.0\RandomArrayGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\freelance\pandell2\Random-Number-Generator\Random Number Generator\RandomArrayGenerator\obj\Debug\net6.0\RandomArrayGenerator.AssemblyInfoInputs.cache
+D:\freelance\pandell2\Random-Number-Generator\Random Number Generator\RandomArrayGenerator\obj\Debug\net6.0\RandomArrayGenerator.AssemblyInfo.cs
+D:\freelance\pandell2\Random-Number-Generator\Random Number Generator\RandomArrayGenerator\obj\Debug\net6.0\RandomArrayGenerator.csproj.CoreCompileInputs.cache
+D:\freelance\pandell2\Random-Number-Generator\Random Number Generator\RandomArrayGenerator\obj\Debug\net6.0\RandomArrayGenerator.dll
+D:\freelance\pandell2\Random-Number-Generator\Random Number Generator\RandomArrayGenerator\obj\Debug\net6.0\ref\RandomArrayGenerator.dll
+D:\freelance\pandell2\Random-Number-Generator\Random Number Generator\RandomArrayGenerator\obj\Debug\net6.0\RandomArrayGenerator.pdb
+D:\freelance\pandell2\Random-Number-Generator\Random Number Generator\RandomArrayGenerator\obj\Debug\net6.0\RandomArrayGenerator.genruntimeconfig.cache
