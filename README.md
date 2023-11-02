@@ -8,9 +8,12 @@
 - .NET Framework, 6.0
 
 ## How to Use 
-- Open the solution file inside the Random Number Generator folder
-- Run the random number generator in debug mode
-- Select an available option
+- Clone repo using git clone https://github.com/conormcq24/RandomArrayGenerator.git
+- Open RandomArrayGenerator Directory
+- Open src directory
+- Open RandomArrayGenerator.sln
+- Run RandomArrayGenerator in debug mode
+- Enter a displayed number
 
 ## Program Explanation 
 <p> First the Application creates an ordered list of numbers 1-10000 list so
