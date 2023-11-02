@@ -37,7 +37,7 @@ namespace MenuOptions
             }
 
             // display the random list
-            Printer.printArray("Random Number List: ", randomList, 10);
+            Printer.printArray("Random Number Array: ", randomList, 10);
             Console.WriteLine("\n");
         }
 
