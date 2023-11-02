@@ -1,21 +1,18 @@
 ## Table of Contents
-[Requirements](#reqs)
-[How to Use](#use)
-[Explanation](#exp)
+- [Requirements](#requirements)
+- [How to Use](#how-to-use)
+- [Program Explanation](#program-explanation)
 
-<a name="reqs"/>
-## Requirements
-Visual Studio 2022
-.NET Framework, 6.0
+## Requirements 
+- Visual Studio 2022
+- .NET Framework, 6.0
 
-<a name="use"/>
-## How to Use
-Open solution file inside of Random Number Generator folder
-Run random number generator in debug mode
-Select an available option
+## How to Use 
+- Open the solution file inside the Random Number Generator folder
+- Run the random number generator in debug mode
+- Select an available option
 
-<a name "exp"/>
-## Program Explanation
+## Program Explanation 
 <p> First the Application creates an ordered list of numbers 1-10000 list so
 <table>
 	<tr>
